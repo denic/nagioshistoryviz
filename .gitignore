@@ -1,0 +1,29 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+*.gem
+*.rbc
+
+/src/ruby/.config
+/src/ruby/coverage/
+/src/ruby/InstalledFiles
+/src/ruby/pkg/
+/src/ruby/spec/reports/
+/src/ruby/spec/examples.txt
+/src/ruby/test/tmp/
+/src/ruby/test/version_tmp/
+/src/ruby/tmp/
+
